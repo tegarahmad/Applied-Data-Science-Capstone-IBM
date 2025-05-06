@@ -3,6 +3,7 @@
 This repository contains the final project for the IBM Applied Data Science Capstone, part of the IBM Data Science Professional Certificate offered on Coursera.
 
 📌 Project Description
+
 The goal of this project is to apply the data science skills and techniques learned throughout the previous courses in a real-world scenario. The project focuses on location-based data analysis and the application of clustering algorithms to solve a business problem using geospatial data.
 
 🛠️ Tools & Technologies
@@ -24,5 +25,5 @@ The project results in an interactive map showing clustered neighborhoods and an
 
 
 👤 About Me
-Tegar Ahmad Arsy
+
 https://linkedin.com/in/tegarahmad
